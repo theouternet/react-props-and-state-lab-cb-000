@@ -18,7 +18,4 @@ const Filters = ({onChangeType, onFindPetsClick}) => (
       </div>
     )
   
-
-
-
 export default Filters
